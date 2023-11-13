@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9B8DA7E0-8467-4B94-B9EA-CB9006BEDC37"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D557AD99-C575-4839-8673-1943A65B265F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator Layout iOS13/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "calcPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE6F86B5-1A83-40EF-90BF-6296FD0936DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator Layout iOS13/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "numPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE6F86B5-1A83-40EF-90BF-6296FD0936DE - 72f896a299119160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_Layout_iOS13.ViewController.numPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "Calculator Layout iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omarassidi/Desktop/iOS/Bootcamp/Projects/Calculator-Layout/Calculator%20Layout%20iOS13/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EE6F86B5-1A83-40EF-90BF-6296FD0936DE - 72f896a2991190bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_Layout_iOS13.ViewController.numPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "Calculator Layout iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omarassidi/Desktop/iOS/Bootcamp/Projects/Calculator-Layout/Calculator%20Layout%20iOS13/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB12671E-FEE6-4278-AC84-1FA911E56522"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator Layout iOS13/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "calcPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB12671E-FEE6-4278-AC84-1FA911E56522 - be68add2ce8ff0e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_Layout_iOS13.ViewController.calcPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "Calculator Layout iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omarassidi/Desktop/iOS/Bootcamp/Projects/Calculator-Layout/Calculator%20Layout%20iOS13/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "CB12671E-FEE6-4278-AC84-1FA911E56522 - be68add2ce8ff702"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_Layout_iOS13.ViewController.calcPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "Calculator Layout iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omarassidi/Desktop/iOS/Bootcamp/Projects/Calculator-Layout/Calculator%20Layout%20iOS13/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
