@@ -47,6 +47,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="controlClicked:" destination="ey4-0b-agg" eventType="touchUpInside" id="2ZD-tJ-b9W"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zCf-oX-UYX" userLabel="PlusMinus">
                                                 <rect key="frame" x="110.33333333333334" y="0.0" width="109.33333333333334" height="148"/>
@@ -56,6 +59,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="controlClicked:" destination="ey4-0b-agg" eventType="touchUpInside" id="8GT-GS-Lao"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NkT-QJ-g67" userLabel="Mod">
                                                 <rect key="frame" x="220.66666666666663" y="0.0" width="109" height="148"/>
@@ -65,6 +71,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="calcPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="GhP-e0-xpb"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nqd-7Z-K6J" userLabel="Divide">
                                                 <rect key="frame" x="330.66666666666669" y="0.0" width="109.33333333333331" height="148"/>
@@ -74,6 +83,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="calcPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="W3D-kQ-4Kl"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -88,6 +100,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="rUn-cg-NJW"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hoY-h6-JvN" userLabel="8">
                                                 <rect key="frame" x="110.33333333333334" y="0.0" width="109.33333333333334" height="148.33333333333334"/>
@@ -97,6 +112,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="tqN-Dw-jkV"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QvL-6u-wwm" userLabel="9">
                                                 <rect key="frame" x="220.66666666666663" y="0.0" width="109" height="148.33333333333334"/>
@@ -106,6 +124,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="GW7-vN-Oab"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qbh-ct-dyD" userLabel="x">
                                                 <rect key="frame" x="330.66666666666669" y="0.0" width="109.33333333333331" height="148.33333333333334"/>
@@ -115,6 +136,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="calcPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="tXA-cC-0ay"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -129,6 +153,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="Bfd-i9-lcH"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="w4Y-zI-00v" userLabel="5">
                                                 <rect key="frame" x="110.33333333333334" y="0.0" width="109.33333333333334" height="148"/>
@@ -138,6 +165,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="J7U-EW-Kb0"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MCk-HY-sv3" userLabel="6">
                                                 <rect key="frame" x="220.66666666666663" y="0.0" width="109" height="148"/>
@@ -147,6 +177,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="ygw-pX-hkP"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lGA-sn-CkV" userLabel="-">
                                                 <rect key="frame" x="330.66666666666669" y="0.0" width="109.33333333333331" height="148"/>
@@ -156,6 +189,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="calcPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="FCK-6x-01c"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -170,6 +206,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="Xsi-sf-dXz"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6eV-Ze-NcC" userLabel="2">
                                                 <rect key="frame" x="110.33333333333334" y="0.0" width="109.33333333333334" height="148.33333333333334"/>
@@ -179,6 +218,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="z3Q-s6-tf6"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FhE-Ng-FZq" userLabel="3">
                                                 <rect key="frame" x="220.66666666666663" y="0.0" width="109" height="148.33333333333334"/>
@@ -188,6 +230,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="fEf-sf-QUb"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sCk-pR-bK3" userLabel="+">
                                                 <rect key="frame" x="330.66666666666669" y="0.0" width="109.33333333333331" height="148.33333333333334"/>
@@ -197,6 +242,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="calcPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="z4k-WH-AJD"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -211,6 +259,9 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="numPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="T9F-7u-s7x"/>
+                                                </connections>
                                             </button>
                                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="zOz-ly-epg">
                                                 <rect key="frame" x="220.66666666666663" y="0.0" width="219.33333333333337" height="148"/>
@@ -223,6 +274,9 @@
                                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </buttonConfiguration>
+                                                        <connections>
+                                                            <action selector="dotPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="AdO-6A-JH8"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JZK-v0-bce" userLabel="=">
                                                         <rect key="frame" x="110.00000000000003" y="0.0" width="109.33333333333334" height="148"/>
@@ -232,6 +286,9 @@
                                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </buttonConfiguration>
+                                                        <connections>
+                                                            <action selector="calcPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="jCw-uW-Oip"/>
+                                                        </connections>
                                                     </button>
                                                 </subviews>
                                             </stackView>
@@ -249,6 +306,9 @@
                             <constraint firstItem="3Sh-Gi-OPn" firstAttribute="leading" secondItem="Ocv-dr-WMp" secondAttribute="leading" id="u1e-O9-RUO"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="displayLabel" destination="w9e-cN-BuI" id="hs8-LD-gHo"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="b3E-z2-QY8" sceneMemberID="firstResponder"/>
             </objects>

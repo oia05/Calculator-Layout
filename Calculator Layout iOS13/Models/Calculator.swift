@@ -11,7 +11,7 @@ import Foundation
 enum Calculation: String {
     case add = "+"
     case subtract = "-"
-    case multiply = "×"
+    case multiply = "x"
     case divide = "÷"
     case mod = "%"
 }

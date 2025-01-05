@@ -39,11 +39,11 @@ class ViewController: UIViewController {
     
     
     @IBAction func controlClicked(_ sender: UIButton) {
-        isFinishedTyping = true
         if sender.currentTitle == "AC" {
             CalculatorBrain.clear()
             calculatorBrain = CalculatorBrain.getInstance()
             displayLabel.text = "0"
+            isFinishedTyping = true
         } else {
             displayValue *= -1
         }
